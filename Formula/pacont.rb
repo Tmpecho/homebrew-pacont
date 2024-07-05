@@ -1,4 +1,4 @@
-class pacont < Formula
+class Pacont < Formula
   desc "A Rust CLI program to print file names and contents"
   homepage "https://github.com/Tmpecho/pacont"
   url "https://github.com/Tmpecho/pacont/releases/download/v0.1.1/pacont"
