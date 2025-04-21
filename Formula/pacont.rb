@@ -2,7 +2,7 @@ class Pacont < Formula
   desc "A Rust CLI program to print file names and contents"
   homepage "https://github.com/Tmpecho/pacont"
   url "https://github.com/Tmpecho/pacont/releases/download/v0.5.2/pacont"
-  sha256 "3208bb30782009e2662b33a54e3400f7b3d41a96357ae2292ea6dcd3be9f21fc"
+  sha256 "c775fe952c2a88fab2bacff767a5c6b37106f6494ca934bf0af477c2b8633c83"
   version "0.5.2"
 
   def install
